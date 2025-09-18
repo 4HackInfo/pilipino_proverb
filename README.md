@@ -17,8 +17,8 @@ The system provides an API for fetching proverbs and a web interface for display
 
 ## 🛠️ Tech Stack
 - **Frontend:** HTML, CSS, TailwindCSS, Bootstrap  
-- **Backend:** Laravel / Python (Flask or FastAPI if needed)  
-- **Database:** JSON / MySQL (for storing proverbs)  
+- **Backend:**  Pure Python 
+
 
 ---
 
