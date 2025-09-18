@@ -22,4 +22,7 @@ The system provides an API for fetching proverbs and a web interface for display
 
 ---
 
+## installion module 
+- **pip install flask**
+
 ## 📂 Project Structure
