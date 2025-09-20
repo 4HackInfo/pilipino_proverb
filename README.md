@@ -17,7 +17,7 @@ The system provides an API for fetching proverbs and a web interface for display
 
 ## 🛠️ Tech Stack
 - **Frontend:** HTML, CSS, TailwindCSS, Bootstrap  
-- **Backend:**  Pure Python 
+- **Backend:**  Pure Python, Javascript
 
 
 ---
